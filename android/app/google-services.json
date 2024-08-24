@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "884764686429",
+    "firebase_url": "https://ani-cars-81ca3-default-rtdb.firebaseio.com",
+    "project_id": "ani-cars-81ca3",
+    "storage_bucket": "ani-cars-81ca3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884764686429:android:44e8e84294d9ecee9e75b4",
+        "android_client_info": {
+          "package_name": "com.app.anicardriver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "884764686429-akl7cdld7gcrjlurodj1ts6aatmga6pd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgIzJqrzeOHJFfU2AssYhFhCkAur1rTLA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "884764686429-akl7cdld7gcrjlurodj1ts6aatmga6pd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "884764686429-jinodsva28jergpb8oj28lgirl851ui7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.app.anicarsdriver"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884764686429:android:374ef52b73fd6c3f9e75b4",
+        "android_client_info": {
+          "package_name": "com.app.anicars"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "884764686429-akl7cdld7gcrjlurodj1ts6aatmga6pd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgIzJqrzeOHJFfU2AssYhFhCkAur1rTLA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "884764686429-akl7cdld7gcrjlurodj1ts6aatmga6pd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "884764686429-jinodsva28jergpb8oj28lgirl851ui7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.app.anicarsdriver"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
